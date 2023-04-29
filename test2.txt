@@ -1,3 +1,0 @@
-this is the second file
-
-here is a line in another file
